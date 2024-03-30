@@ -1,6 +1,6 @@
 {
     "version": "0.5.2",
-    "updateurl": "https://raw.githubusercontent.com/SpasxYT2000/SMI-Helper/main/umhelper.lua",
+    "updateurl": "https://raw.githubusercontent.com/SpasxYT2000/SMI-Helper/main/umhelper.luac",
     "telemetry": "https://vk.com/ssker",
     "description": {
         "heading": "Исправление мелких багов",
