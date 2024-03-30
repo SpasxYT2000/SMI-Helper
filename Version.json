@@ -1,0 +1,9 @@
+{
+    "version": "0.5.1",
+    "updateurl": "https://raw.githubusercontent.com/vitalievdev/SMI-Helper/main/umhelper.luaс",
+    "telemetry": "https://vk.com/ssker",
+    "description": {
+        "heading": "Исправление мелких багов",
+        "line": " - Изминена стилистика скрипта!"
+    }
+}
